@@ -65,9 +65,11 @@ Shows distribution of prediction errors.
 ---
 
 ## 📂 Repository Structure  
-│── linear-regression.ipynb # Task 3 – Linear Regression model
-│── model-evaluation.ipynb # Task 6 – Evaluation metrics & plots
-│── README.md # Project documentation
+
+│── linear-regression.ipynb      # Task 3 – Linear Regression model  
+│── model-evaluation.ipynb       # Task 6 – Evaluation metrics & plots  
+│── README.md                    # Project documentation  
+
 ---
 
 ## 🚀 How to Run  
